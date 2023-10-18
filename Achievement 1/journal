@@ -1,0 +1,23 @@
+1.	In your own words, what is the difference between frontend and backend web development? 
+If you were hired to work on backend programming for a web application, what kinds of operations would you be working on?
+
+Frontend development is what the users see when entering the app. The design of the app any clickable buttons, forms, dialogue etc. 
+Backend development are the parts that the user does not see. For example a user can input their user information in the front end to login,
+but they do not see the data base that holds their information, which is compared to the input, functions that generate a token and any other background 
+tools like api's are all backend. If I were a backend developer I would tasked data base creation and maintenance or API creation and maintenance.
+
+2.	Imagine you’re working as a full-stack developer in the near future. Your team is asking for your advice on whether to use JavaScript 
+or Python for a project, and you think Python would be the better choice. How would you explain the similarities and differences between the 
+two languages to your team? Drawing from what you learned in this Exercise, what reasons would you give to convince your team that Python is the better option? 
+(Hint: refer to the Exercise section “The Benefits of Developing with Python”)
+
+I would say that Python has a number of open-source and proprietary packages which fits into any project making it very versatile. Making things like password encryption, 
+datetime formatting, JSON formatting a simple ordeal. Python is also very readable for a project with multiple developer and it is kept up to date being
+one of the most popular languages with an active community.
+
+3.	Now that you’ve had an introduction to Python, write down 3 goals you have for yourself and your learning during this Achievement. 
+You can reflect on the following questions if it helps you. What do you want to learn about Python? What do you want to get out of this Achievement? 
+Where or what do you see yourself working on after you complete this Achievement?
+
+I would like to learn the difference between making a web application between Javascript and Python are. I would like to create my first python application.
+I see myself starting my solo project that I would like to do with python.
