@@ -9,5 +9,7 @@ Pickles convert complex data into packaged stream of bytes(pickle) and write the
 The os.getcwd() command is used to find out which file directory you’re currently working on in Python. The os.chdir() command lets your Python interpreter change its current working directory.
 
 4.	Imagine you’re working on a Python script and are worried there may be an error in a block of code. How would you approach the situation to prevent the entire script from terminating due to an error?
+I would use try-except-else block in which I would try a slice of code, if there is an error an except message will show instead of erroring out. Once the function is successful it will move to the else block and the script will finish.
 
 5.	You’re now more than halfway through Achievement 1! Take a moment to reflect on your learning in the course so far. How is it going? What’s something you’re proud of so far? Is there something you’re struggling with? What do you need more practice with? Feel free to use these notes to guide your next mentor call. 
+I think that I would like to work on more with the try-except block in combination with the opening up the file to read and write. Everything is going well.
