@@ -1,0 +1,20 @@
+1.	What is an Object Relational Mapper and what are the advantages of using one?
+Object-relational mapper (ORM) converts the contents and structure of your database into classes and objects that can be interacted with directly. It makes database conversion much easier especially moving from one DBMS to another.
+
+2.	By this point, you’ve finished creating your Recipe app. How did it go? What’s something in the app that you did well with? If you were to start over, what’s something about your app that you would change or improve?
+The app took a long time to think about and write especially making sure that it does not error out. I think I did well to putting error conditions for each part of the app functions. If I were to start over I would put try and except block around each function to make sure the functions are bulletproof agains error.
+
+3.	Imagine you’re at a job interview. You’re asked what experience you have creating an app using Python. Taking your work for this Achievement as an example, draft how you would respond to this question.
+I explored the many functions of Python and Object relation Mapper. I used these skills to build a command line recipe app that users can use to add, view, change, delete and search for recipes. The many recipes were stored locally in a SQL database that I created and initialized. The database made sure that the inputed values of the user so they do not to be inputed everytime the app is launched. I leared a lot about if-elif-else statments and while /for loops.
+ 
+4.	You’ve finished Achievement 1! Before moving on to Achievement 2, take a moment to reflect on your learning in the course so far: 
+a.	What went well during this Achievement? 
+I think that app turned out very well. It is not the most user friendly app but it has a lot to it.
+b.	What’s something you’re proud of? 
+I think I did well to putting error conditions for each part of the app functions so the function does not error out.
+c.	What was the most challenging aspect of this Achievement? 
+The most challenging part of the app was comming up with all the scenarios that the user could mess up. It took way to long.
+d.	Did this Achievement meet your expectations? Did it give you the confidence to start working with your new Python skills?
+Yes, this achievement did meet my expectations and maybe even surpassed my expectations. I did not think it would take this long to finish. I think I am confident to work with the python skills because they were definitely challenged in this exercise.
+e.	What’s something you want to keep in mind to help you do your best in Achievement 2?
+I would like to keep in mind how a user would interact with an app and that the app needs to have a lot of built in conditions so it does not break down when a user tries to break it.
