@@ -1,0 +1,9 @@
+
+1.	Suppose you’re in an interview. The interviewer gives you their company’s website as an example, asking you to convert the website and its different parts into Django terms. How would you proceed? For this question, you can think about your dream company and look at their website for reference. 
+(Hint: In the Exercise, you saw the example of the CareerFoundry website in the Project and Apps section.)
+In an web site such as Amazon the whole site would be project. Individual modules such as login, best sellers, return and orders, cart
+
+2.	In your own words, describe the steps you would take to deploy a basic Django application locally on your system and so much more would be considered apps.
+
+3.	Do some research about the Django admin site and write down how you’d use it during your web application development.
+The Django admin site can use models to automatically build a site area that you can use to create, view, update, and delete records. This this will save me time during development, making it easy to test models and show me if I have the right data.
