@@ -1,0 +1,13 @@
+1.	Suppose you’re a web developer in a company and need to decide if you’ll use vanilla (plain) Python for a project, or a framework like Django instead. What are the advantages and drawbacks of each?
+Unlike python on its own Django brings in a lot of rules and it limits the developer's ability to diverge them (batteries-included system). It has functions that are already pre coded and comes right out of the box. If it is a simple project then Django is not well suited for it because Django brings with it many features that are not needed in a small project. Some of the adavantages of Django is if you are okey with following a structure and are building a large scale application with databases and large user base. It uses MVT architecture so development is fast and easy, helping with network transition, helps with scalability and etc.
+
+2.	In your own words, what is the most significant advantage of Model View Template (MVT) architecture over Model View Controller (MVC) architecture?
+MVT architecture is suitable for large and small applications while MVC is only suited for large applications. One of the way it can be used in a large application is its ability for MVT to automate the accessing to the database so the web developer doesn’t have to write code to fetch the data from the database and map it to the URL
+
+3.	Now that you’ve had an introduction to the Django framework, write down three goals you have for yourself and your learning process during this Achievement. You can reflect on the following questions if it helps:
+●	What do you want to learn about Django? 
+    I would like to learn how to create a web application. In the first achievement we only created the app on a command line but this time I would like to learn incorporating it to a web app.
+●	What do you want to get out of this Achievement? 
+     I want to get a deeper knowledge of how django uses MVT to interact with a data base and how well it works with creating a large application
+●	Where or what do you see yourself working on after you complete this Achievement?
+    After this achievement I would like to work on a solo application the one that I always wanted but never got to doing.
