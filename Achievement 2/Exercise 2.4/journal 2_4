@@ -1,0 +1,9 @@
+1.	Do some research on Django views. In your own words, use an example to explain how Django views work.
+Django views are Python functions that take requests and returns response. These view are ran when a user tries to access a certain URL defined in the views.py. For example, if a user types in "url/recipes" defined in the views it would accept this as a request and will push a response which is the webpage which was built using the tamplate so that the user cans see.
+
+2.	Imagine you’re working on a Django web development project, and you anticipate that you’ll have to reuse lots of code in various parts of the project. In this scenario, will you use Django function-based views or class-based views, and why?
+Class-based views provide a way to create views that—once created—are easy to reuse and extend. So using class base views would perfect in this scenario.
+
+3.	 Read Django’s documentation on the Django template language and make some notes on its basics.
+A template is a text file. It can generate any text-based format (HTML, XML, CSV, etc.).
+A template contains variables, which get replaced with values when the template is evaluated, and tags, which control the logic of the template.
