@@ -1,0 +1,6 @@
+1.	Do some research on Django models. In your own words, write down how Django models work and what their benefits are.
+Django stores data within objects called models which are the tables in the database. Models define the the structure of the data stored in the database including the lenght/ default values etc. This makes sure that we do not have to code everytime to contact the database Django connects to the database for us we just define the modals. This increases speed and efficiency while coding, making sure that we do not change or upload files while communicating with a database.
+
+2.	In your own words, explain why it is crucial to write test cases from the beginning of a project. You can take an example project to explain your answer.
+
+Writing tests from the begining of the project make sure that we are testing every function as we are adding to the project. If we do not test at the start and the project becomes convoluted with many function and we find out at the end that one or multiple functions are having a problem it will be hard to decipher all of that. If we test as we go we will know which function/method is the problem.
