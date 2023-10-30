@@ -1,0 +1,20 @@
+1.	In your own words, write down the importance of incorporating authentication into an application. You can take an example application to explain your answer. 
+Incorporating authentication into an application is important because of privacy reasons. Applications like amazon hold personal informations of the user such as their addresses, saved credit cards, items ordered etc. Having authentication provides personalized user experiance and security.
+
+2.	In your own words, explain the steps you should take to create a login for your Django web application. 
+
+First you create a Login view importing the already django builtin functions login, authentication and built in form; AuthenticationForm. You will have the login view accepting POST and GET requests if the request is GET then it will show login template, if tbe request is POST and if the inputed username/password values are valid it will return the authorized view. The values of the username and password are stored within the super users of the django/admin
+
+Second you will create the template of the loginview outside of the apps and within the application. This template will be shown when the user presses the login button and sends a GET request to the login view.To have django find the template outside of the app you need to point to the folder at the settings of the application.
+
+Final step is to register the url within the application's url.py, importing LoginRequiredMixin from django and protecting any views from users that need authorization.
+
+
+
+3.	Look up the following three Django functions on Django’s official documentation and/or other trusted sources and write a brief description of each.
+
+
+Function	        Description
+authenticate()	    verifies username and password checking them against each authentication backend, and returns a User object if the credentials are valid for a backend.
+redirect()	        returns an http response to redirect to the appropriate URL inserted inside of its arguments
+include()	        includes APP urls in the application/projects url directory.
