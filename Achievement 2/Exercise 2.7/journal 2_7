@@ -1,0 +1,9 @@
+1.	Consider your favorite website/application (you can also take CareerFoundry). Think about the various data that your favorite website/application collects. Write down how analyzing the collected data could help the website/application. 
+Websites like amazon.com collects user information such as picture, name, password, username, address, credit card information also information like previously ordered items, previously searched items and etc. Analyzing information like ordered items and previously searched items gives the website a better ability to provide with better item recommedation more personalized experiance for the user to use the app. Storing information such as credit cards and addresses help the user's transactions faster than before so the user can focus on the buying.
+
+2.	Read the Django official documentation on QuerySet API. Note down the different ways in which you can evaluate a QuerySet.
+A QuerySet is iterable it can be iterated over asynchronously and synchronously. QuerySet can be sliced and pickled. Adiditional ways in which QuerySet can be evaluated are aggregation, counting and many more.
+
+3.	In the Exercise, you converted your QuerySet to DataFrame. Now do some research on the advantages and disadvantages of QuerySet and DataFrame, and explain the ways in which DataFrame is better for data processing.
+
+Pandas DataFrame is a 2 dimensional data structure, or a table with rows and columns. It is able to handle large amount of data unlike QuerySet ad Dataframe is designed to handle millions of datasets. DataFrame provides fast and efficient data analysis
