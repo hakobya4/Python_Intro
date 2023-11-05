@@ -6,4 +6,4 @@ A QuerySet is iterable it can be iterated over asynchronously and synchronously.
 
 3.	In the Exercise, you converted your QuerySet to DataFrame. Now do some research on the advantages and disadvantages of QuerySet and DataFrame, and explain the ways in which DataFrame is better for data processing.
 
-Pandas DataFrame is a 2 dimensional data structure, or a table with rows and columns. It is able to handle large amount of data unlike QuerySet ad Dataframe is designed to handle millions of datasets. DataFrame provides fast and efficient data analysis
+Pandas DataFrame is a 2 dimensional data structure, or a table with rows and columns. It is able to handle large amount of data unlike QuerySet ad Dataframe is designed to handle millions of datasets. DataFrame provides fast and efficient data analysis with things like it being mutable with the user performing arythmatic functions on the data.
