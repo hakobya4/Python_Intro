@@ -1,0 +1,15 @@
+1.	Explain how you can use CSS and JavaScript in your Django web application.
+    CSS can be used to design the application while making the code look clean. Instead of having all the styles seperately added to each part of the website which would make it look cluttered putting it in css files would make the code less cluttered less repetitive and much more easily changed. Javascript can be used to incorporate things like bootstrap within the app to have functions like navigation bar be incorporated.
+
+2.	In your own words, explain the steps you’d need to take to deploy your Django web application. 
+    Firstly you would need to create an app in heroku, login to heroku using the terminal and point the local files to the heroku app created using heroku git:remote -a app-name. Once connected git add and commit the repository and heroku push main to deploy the django web application to heroku.
+
+4.	You’ve now finished Achievement 2 and, with it, the whole course! Take a moment to reflect on your learning:
+a.	What went well during this Achievement? 
+    The apps functionality and looks came out well.
+b.	What’s something you’re proud of? 
+    I think I am proud of the way that I handled the user flow by making sure that there were navigation bars and roots back and forth between different views.
+c.	What was the most challenging aspect of this Achievement? 
+    The most challenging part was the deployment of the application, it took me a while to try and deploy the app but to no avail.
+d.	Did this Achievement meet your expectations? Did it give you the confidence to start working with your new Django skills?
+    This achievement did meet my expectations I think I will be able to start working with Django but when I would deploy I will use a different deployment framework.
